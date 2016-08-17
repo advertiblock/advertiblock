@@ -1,0 +1,4 @@
+/adblockpluscore/*
+/adblockplusui/*
+/buildtools/*
+*.xpi
