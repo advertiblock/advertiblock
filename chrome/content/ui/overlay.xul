@@ -68,7 +68,7 @@
       </menupopup>
     </menu>
 
-    <hbox class="abp-contributebutton" id="abp-status-contributebutton" pack="center" align="center">
+    <hbox class="abp-contributebutton" id="abp-status-contributebutton" pack="center" align="center" hidden="true">
       <!-- noautoclose attribute tells Australis menu that it shouldn't close when
            these are clicked, see https://bugzilla.mozilla.org/show_bug.cgi?id=940693 -->
       <button class="abp-contributebutton-btn" label="&contribute.label;" command="abp-command-contribute" flex="1" noautoclose="true"/>
