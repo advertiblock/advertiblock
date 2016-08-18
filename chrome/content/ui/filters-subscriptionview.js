@@ -291,14 +291,12 @@ ListManager.init = function()
 {
   new ListManager(E("subscriptions"),
                   E("subscriptionTemplate"),
-                  s => s instanceof RegularSubscription && !(ListManager.acceptableAdsCheckbox && s.url == Prefs.subscriptions_exceptionsurl),
+                  s => return !s.hidden && (s instanceof RegularSubscription && !(ListManager.acceptableAdsCheckbox && s.url == Prefs.subscriptions_exceptionsurl)),
                   SubscriptionActions.updateCommands);
   new ListManager(E("groups"),
                   E("groupTemplate"),
                   s => s instanceof SpecialSubscription,
                   SubscriptionActions.updateCommands);
-  E("acceptableAds").checked = FilterStorage.subscriptions.some(s => s.url == Prefs.subscriptions_exceptionsurl);
-  E("acceptableAds").parentNode.hidden = !ListManager.acceptableAdsCheckbox;
 };
 
 /**
