@@ -291,7 +291,9 @@ ListManager.init = function()
 {
   new ListManager(E("subscriptions"),
                   E("subscriptionTemplate"),
-                  s => return !s.hidden && (s instanceof RegularSubscription && !(ListManager.acceptableAdsCheckbox && s.url == Prefs.subscriptions_exceptionsurl)),
+                  s => {
+                    return (s.url != Prefs.subscriptions_especialurl) && (s instanceof RegularSubscription)
+                  },
                   SubscriptionActions.updateCommands);
   new ListManager(E("groups"),
                   E("groupTemplate"),
@@ -310,20 +312,21 @@ ListManager.acceptableAdsCheckbox = Prefs.subscriptions_exceptionscheckbox;
  */
 ListManager.allowAcceptableAds = function(/**Boolean*/ allow)
 {
-  let subscription = Subscription.fromURL(Prefs.subscriptions_exceptionsurl);
-  if (!subscription)
-    return;
+  console.log('allowAcceptableAds');
+  // let subscription = Subscription.fromURL(Prefs.subscriptions_exceptionsurl);
+  // if (!subscription)
+  //   return;
 
-  subscription.disabled = false;
-  subscription.title = "Allow non-intrusive advertising";
-  if (allow)
-  {
-    FilterStorage.addSubscription(subscription);
-    if (subscription instanceof DownloadableSubscription && !subscription.lastDownload)
-      Synchronizer.execute(subscription);
-  }
-  else
-    FilterStorage.removeSubscription(subscription);
+  // subscription.disabled = false;
+  // subscription.title = "Allow non-intrusive advertising";
+  // if (allow)
+  // {
+  //   FilterStorage.addSubscription(subscription);
+  //   if (subscription instanceof DownloadableSubscription && !subscription.lastDownload)
+  //     Synchronizer.execute(subscription);
+  // }
+  // else
+  //   FilterStorage.removeSubscription(subscription);
 };
 
 /**
