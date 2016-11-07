@@ -1,33 +1,33 @@
 <!ENTITY notification.button.no "&amp;Ez">
-<!ENTITY sync.label "&amp;Sinkronizatu AdvertiBlock ezarpenak">
+<!ENTITY sync.label "&amp;Sinkronizatu Adshark ezarpenak">
 <!ENTITY whitelist.site.label "Ezgaitu hemen: ?1?">
 <!ENTITY notification.closing.button.hide "I&amp;txi jakinarazpen hau">
 <!ENTITY filters.label "&amp;Iragazki hobespenak">
 <!ENTITY disable.label "Ezgaitu edonon">
 <!ENTITY objecttab.title "Blokeatu">
-<!ENTITY objecttab.tooltip "Egin klik hemen objektu hau AdvertiBlockekin blokeatzeko">
+<!ENTITY objecttab.tooltip "Egin klik hemen objektu hau Adsharkekin blokeatzeko">
 <!ENTITY menuitem.label "Adbloc&amp;k Plus hobespenak">
 <!ENTITY objecttabs.label "Erakutsi &amp;fitxak Flash eta Javan">
 <!ENTITY sendReport.label "Orri hone&amp;tan sortutako arazo bati buruzko txostena egin">
 <!ENTITY whitelist.page.label "Ezgaitu orri honetan soilik">
-<!ENTITY context.image.label "AdvertiBlock: Irudia blokeatu">
+<!ENTITY context.image.label "Adshark: Irudia blokeatu">
 <!ENTITY notification.button.yes "&amp;Bai">
 <!ENTITY opensidebar.label "Ire&amp;ki elementu blokeagarriak">
 <!ENTITY notification.button.close "&amp;Itxi">
 <!ENTITY shownotifications.label "Erakutsi &amp;jakinarazpen erabilgarriak">
-<!ENTITY contribute.label "AdvertiBlock-en parte hartu">
-<!ENTITY toolbarbutton.label "AdvertiBlock">
-<!ENTITY context.frame.label "AdvertiBlock: Markoa blokeatu">
+<!ENTITY contribute.label "Adshark-en parte hartu">
+<!ENTITY toolbarbutton.label "Adshark">
+<!ENTITY context.frame.label "Adshark: Markoa blokeatu">
 <!ENTITY blocked.tooltip "Orri honetan blokeatutako elementuak:">
 <!ENTITY notification.closing.button.optout "&amp;Utzi jakinarazpenak erakusteari">
 <!ENTITY counthits.label "Zenbatu iragazkien &amp;bategiteak">
 <!ENTITY showinstatusbar.label "Erakutsi &amp;egoera-barran">
 <!ENTITY sidebar.title "Elementu blokeagarriak uneko orrialdean">
 <!ENTITY options.label "&amp;Aukerak">
-<!ENTITY context.object.label "AdvertiBlock: Objektua blokeatu">
-<!ENTITY context.removeWhitelist.label "AdvertiBlock: Bergaitu orri honetan">
+<!ENTITY context.object.label "Adshark: Objektua blokeatu">
+<!ENTITY context.removeWhitelist.label "Adshark: Bergaitu orri honetan">
 <!ENTITY filters.tooltip "Iragazki aktiboenak:">
 <!ENTITY closesidebar.label "Itxi elementu blo&amp;keagarriak">
 <!ENTITY showintoolbar.label "Erakutsi &amp;tresna-barran">
 <!ENTITY status.tooltip "Egoera:">
-<!ENTITY context.media.label "AdvertiBlock: audio/bideoa blokeatu">
+<!ENTITY context.media.label "Adshark: audio/bideoa blokeatu">

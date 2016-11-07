@@ -1,33 +1,33 @@
 <!ENTITY notification.button.no "いいえ(&amp;N)">
-<!ENTITY sync.label "AdvertiBlock 設定を Sync で同期(&amp;C)">
+<!ENTITY sync.label "Adshark 設定を Sync で同期(&amp;C)">
 <!ENTITY whitelist.site.label "?1? で無効">
 <!ENTITY notification.closing.button.hide "この通知を閉じる(&amp;H)">
 <!ENTITY filters.label "フィルタ設定(&amp;F)">
 <!ENTITY disable.label "全ページで無効">
 <!ENTITY objecttab.title "ブロックする">
-<!ENTITY objecttab.tooltip "クリックしてオブジェクトをブロック (AdvertiBlock)">
-<!ENTITY menuitem.label "AdvertiBlock 設定(&amp;B)">
+<!ENTITY objecttab.tooltip "クリックしてオブジェクトをブロック (Adshark)">
+<!ENTITY menuitem.label "Adshark 設定(&amp;B)">
 <!ENTITY objecttabs.label "Flash と Java でタブを表示(&amp;T)">
 <!ENTITY sendReport.label "このページでの不具合を報告(&amp;R)">
 <!ENTITY whitelist.page.label "このページのみで無効">
-<!ENTITY context.image.label "AdvertiBlock: 画像をブロック">
+<!ENTITY context.image.label "Adshark: 画像をブロック">
 <!ENTITY notification.button.yes "はい(&amp;Y)">
 <!ENTITY opensidebar.label "ブロック可能項目一覧を開く(&amp;B)">
 <!ENTITY notification.button.close "閉じる(&amp;C)">
 <!ENTITY shownotifications.label "有用な通知を表示(&amp;N)">
-<!ENTITY contribute.label "AdvertiBlock に貢献する">
-<!ENTITY toolbarbutton.label "AdvertiBlock">
-<!ENTITY context.frame.label "AdvertiBlock: フレームをブロック">
+<!ENTITY contribute.label "Adshark に貢献する">
+<!ENTITY toolbarbutton.label "Adshark">
+<!ENTITY context.frame.label "Adshark: フレームをブロック">
 <!ENTITY blocked.tooltip "このページでブロック中の項目:">
 <!ENTITY notification.closing.button.optout "通知の表示を停止(&amp;S)">
 <!ENTITY counthits.label "フィルタのヒット数を数える(&amp;H)">
 <!ENTITY showinstatusbar.label "ステータスバーに表示(&amp;S)">
 <!ENTITY sidebar.title "このページのブロック可能項目一覧">
 <!ENTITY options.label "オプション(&amp;O)">
-<!ENTITY context.object.label "AdvertiBlock: オブジェクトをブロック">
-<!ENTITY context.removeWhitelist.label "AdvertiBlock: このページで有効に戻す">
+<!ENTITY context.object.label "Adshark: オブジェクトをブロック">
+<!ENTITY context.removeWhitelist.label "Adshark: このページで有効に戻す">
 <!ENTITY filters.tooltip "有効なフィルタ:">
 <!ENTITY closesidebar.label "ブロック可能項目一覧を閉じる(&amp;B)">
 <!ENTITY showintoolbar.label "ツールバーに表示(&amp;B)">
 <!ENTITY status.tooltip "ステータス:">
-<!ENTITY context.media.label "AdvertiBlock: オーディオ／ビデオをブロック">
+<!ENTITY context.media.label "Adshark: オーディオ／ビデオをブロック">

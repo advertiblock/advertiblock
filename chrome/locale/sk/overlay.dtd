@@ -1,33 +1,33 @@
 <!ENTITY notification.button.no "&amp;Nie">
-<!ENTITY sync.label "Syn&amp;chronizovať nastavenia AdvertiBlock">
+<!ENTITY sync.label "Syn&amp;chronizovať nastavenia Adshark">
 <!ENTITY whitelist.site.label "Vypnúť na ?1?">
 <!ENTITY notification.closing.button.hide "Zatvoriť toto upozornenie">
 <!ENTITY filters.label "&amp;Nastavenia filtrov">
 <!ENTITY disable.label "Vypnúť všade">
 <!ENTITY objecttab.title "Blokovať">
-<!ENTITY objecttab.tooltip "Kliknúť sem pre blokovanie tohto objektu s AdvertiBlock">
-<!ENTITY menuitem.label "&amp;AdvertiBlock">
+<!ENTITY objecttab.tooltip "Kliknúť sem pre blokovanie tohto objektu s Adshark">
+<!ENTITY menuitem.label "&amp;Adshark">
 <!ENTITY objecttabs.label "Zobraziť karty pre &amp;Flash a Java">
 <!ENTITY sendReport.label "&amp;Ohlásiť problém na tejto stránke">
 <!ENTITY whitelist.page.label "Vypnúť len na tejto stránke">
-<!ENTITY context.image.label "AdvertiBlock: Blokovať obrázok">
+<!ENTITY context.image.label "Adshark: Blokovať obrázok">
 <!ENTITY notification.button.yes "&amp;Áno">
 <!ENTITY opensidebar.label "Otvoriť &amp;blokovateľné položky">
 <!ENTITY notification.button.close "&amp;Zatvoriť">
 <!ENTITY shownotifications.label "Zobraziť užitočné položky a oznámenia">
-<!ENTITY contribute.label "Prispieť na AdvertiBlock">
-<!ENTITY toolbarbutton.label "AdvertiBlock">
-<!ENTITY context.frame.label "AdvertiBlock: Blokovať rámec">
+<!ENTITY contribute.label "Prispieť na Adshark">
+<!ENTITY toolbarbutton.label "Adshark">
+<!ENTITY context.frame.label "Adshark: Blokovať rámec">
 <!ENTITY blocked.tooltip "Blokovaných položiek na tejto stránke:">
 <!ENTITY notification.closing.button.optout "Zrušiť zobrazovanie upozornení">
 <!ENTITY counthits.label "P&amp;očítadlo">
 <!ENTITY showinstatusbar.label "Zobraziť v &amp;stavovom riadku">
 <!ENTITY sidebar.title "Blokovateľné položky na aktuálnej stránke">
 <!ENTITY options.label "&amp;Možnosti">
-<!ENTITY context.object.label "AdvertiBlock: Blokovať objekt">
-<!ENTITY context.removeWhitelist.label "AdvertiBlock: Znovu zapnúť túto stránku">
+<!ENTITY context.object.label "Adshark: Blokovať objekt">
+<!ENTITY context.removeWhitelist.label "Adshark: Znovu zapnúť túto stránku">
 <!ENTITY filters.tooltip "Najaktívnejšie filtre:">
 <!ENTITY closesidebar.label "Zatvoriť &amp;blokovateľné položky">
 <!ENTITY showintoolbar.label "Zobraziť v pane&amp;li nástrojov">
 <!ENTITY status.tooltip "Stav:">
-<!ENTITY context.media.label "AdvertiBlock: Blokovať audio/video">
+<!ENTITY context.media.label "Adshark: Blokovať audio/video">

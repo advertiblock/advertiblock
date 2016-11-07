@@ -3,13 +3,13 @@
 <!ENTITY filters.tooltip        "Most active filters:">
 
 <!ENTITY menuitem.label         "Ad&amp;block Plus Preferences">
-<!ENTITY toolbarbutton.label    "AdvertiBlock">
+<!ENTITY toolbarbutton.label    "Adshark">
 
-<!ENTITY context.image.label    "AdvertiBlock: Block image">
-<!ENTITY context.object.label   "AdvertiBlock: Block object">
-<!ENTITY context.frame.label    "AdvertiBlock: Block frame">
-<!ENTITY context.media.label    "AdvertiBlock: Block audio/video">
-<!ENTITY context.removeWhitelist.label  "AdvertiBlock: Re-enable on this page">
+<!ENTITY context.image.label    "Adshark: Block image">
+<!ENTITY context.object.label   "Adshark: Block object">
+<!ENTITY context.frame.label    "Adshark: Block frame">
+<!ENTITY context.media.label    "Adshark: Block audio/video">
+<!ENTITY context.removeWhitelist.label  "Adshark: Re-enable on this page">
 
 <!ENTITY sidebar.title          "Blockable items on current page">
 
@@ -24,16 +24,16 @@
 <!ENTITY whitelist.page.label   "Disable on this page only">
 <!ENTITY disable.label          "Disable everywhere">
 <!ENTITY options.label          "&amp;Options">
-<!ENTITY contribute.label       "Contribute to AdvertiBlock">
+<!ENTITY contribute.label       "Contribute to Adshark">
 
 <!ENTITY showintoolbar.label        "Show in tool&amp;bar">
 <!ENTITY showinstatusbar.label      "&amp;Show in status bar">
 <!ENTITY objecttabs.label           "Show &amp;tabs on Flash and Java">
 <!ENTITY counthits.label            "Count filter &amp;hits">
-<!ENTITY sync.label                 "Syn&amp;c AdvertiBlock settings">
+<!ENTITY sync.label                 "Syn&amp;c Adshark settings">
 <!ENTITY shownotifications.label    "Show useful &amp;notifications">
 <!ENTITY objecttab.title        "Block">
-<!ENTITY objecttab.tooltip      "Click here to block this object with AdvertiBlock">
+<!ENTITY objecttab.tooltip      "Click here to block this object with Adshark">
 
 <!ENTITY notification.button.yes       "&amp;Yes">
 <!ENTITY notification.button.no        "&amp;No">

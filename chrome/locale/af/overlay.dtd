@@ -2,24 +2,24 @@
 <!ENTITY whitelist.site.label "Skakel af op ?1?">
 <!ENTITY filters.label "&amp;Filter voorkeure">
 <!ENTITY disable.label "Blok orals">
-<!ENTITY menuitem.label "AdvertiBlock Voorkeure">
+<!ENTITY menuitem.label "Adshark Voorkeure">
 <!ENTITY objecttabs.label "Vertoon &amp;tabs op Flash en Java">
 <!ENTITY sendReport.label "&amp;Rapporteer probleem op hierdie blad">
 <!ENTITY whitelist.page.label "Blok voorwerpe slegs op hierdie blad">
-<!ENTITY context.image.label "AdvertiBlock: Blok prent">
+<!ENTITY context.image.label "Adshark: Blok prent">
 <!ENTITY notification.button.yes "&amp;Ja">
 <!ENTITY opensidebar.label "Oop &amp;blokbare voorwerpe">
-<!ENTITY contribute.label "Dra by tot AdvertiBlock">
-<!ENTITY toolbarbutton.label "AdvertiBlock">
-<!ENTITY context.frame.label "AdvertiBlock: Blok raam">
+<!ENTITY contribute.label "Dra by tot Adshark">
+<!ENTITY toolbarbutton.label "Adshark">
+<!ENTITY context.frame.label "Adshark: Blok raam">
 <!ENTITY blocked.tooltip "Geblokteerde items op hierdie blad:">
 <!ENTITY showinstatusbar.label "&amp;Vertoon in Status balk">
 <!ENTITY sidebar.title "Blokbare voorwerpe op huidige blad">
 <!ENTITY options.label "&amp;Voorkeure">
-<!ENTITY context.object.label "AdvertiBlock: Blok voorwerp">
-<!ENTITY context.removeWhitelist.label "Staat AdvertiBlock weer in stel vir hierdie blad">
+<!ENTITY context.object.label "Adshark: Blok voorwerp">
+<!ENTITY context.removeWhitelist.label "Staat Adshark weer in stel vir hierdie blad">
 <!ENTITY filters.tooltip "Mees aktiewe filters:">
 <!ENTITY closesidebar.label "Toegemaakte &amp;blokbare voorwerpe">
 <!ENTITY showintoolbar.label "Vertoon op behulpmiddel&amp;balk">
 <!ENTITY status.tooltip "Status:">
-<!ENTITY context.media.label "AdvertiBlock: Blok audio/video">
+<!ENTITY context.media.label "Adshark: Blok audio/video">

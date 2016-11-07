@@ -1,6 +1,6 @@
 <!ENTITY accept.label "Ongeza kichujio">
-<!ENTITY disabled.warning "AdvertiBlock kwa sasa imesitishwa. Hata hivyo unaweza kuongeza vichujio lakini havitafanya kazi hadi [link]utakapowezesha AdvertiBlock[/link].">
+<!ENTITY disabled.warning "Adshark kwa sasa imesitishwa. Hata hivyo unaweza kuongeza vichujio lakini havitafanya kazi hadi [link]utakapowezesha Adshark[/link].">
 <!ENTITY advanced.label "Mwonekano wa juu">
-<!ENTITY dialog.title "Ongeza kanuni ya kichujio cha AdvertiBlock">
+<!ENTITY dialog.title "Ongeza kanuni ya kichujio cha Adshark">
 <!ENTITY basic.label "Mwonekano wa msingi">
 <!ENTITY filter.label "Mpya &amp;kichujio:">

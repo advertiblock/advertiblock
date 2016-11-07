@@ -6,28 +6,28 @@
 <!ENTITY disable.label "Вимкнути всюди">
 <!ENTITY objecttab.title "Заблокувати">
 <!ENTITY objecttab.tooltip "Натисніть тут, щоб заблокувати цей об’єкт">
-<!ENTITY menuitem.label "Налаштування &amp;AdvertiBlock">
+<!ENTITY menuitem.label "Налаштування &amp;Adshark">
 <!ENTITY objecttabs.label "Показувати &amp;ярлик на Flash і Java">
 <!ENTITY sendReport.label "Повідомити про проблеми на &amp;сторінці">
 <!ENTITY whitelist.page.label "Вимкнути: тільки на цій сторінці">
-<!ENTITY context.image.label "AdvertiBlock: заблокувати зображення">
+<!ENTITY context.image.label "Adshark: заблокувати зображення">
 <!ENTITY notification.button.yes "&amp;Так">
 <!ENTITY opensidebar.label "Відкрити с&amp;писок елементів">
 <!ENTITY notification.button.close "&amp;Закрити">
 <!ENTITY shownotifications.label "Показувати корисні &amp;повідомлення">
 <!ENTITY contribute.label "Допомогти Адблоку">
-<!ENTITY toolbarbutton.label "AdvertiBlock">
-<!ENTITY context.frame.label "AdvertiBlock: заблокувати фрейм">
+<!ENTITY toolbarbutton.label "Adshark">
+<!ENTITY context.frame.label "Adshark: заблокувати фрейм">
 <!ENTITY blocked.tooltip "Заблоковані елементи на цій сторінці:">
 <!ENTITY notification.closing.button.optout "З&amp;аборонити показ повідомлень">
 <!ENTITY counthits.label "&amp;Рахувати хіти фільтрів">
 <!ENTITY showinstatusbar.label "Показувати в рядку &amp;стану">
 <!ENTITY sidebar.title "Елементи відкритої сторінки">
 <!ENTITY options.label "Н&amp;алаштування">
-<!ENTITY context.object.label "AdvertiBlock: заблокувати об’єкт">
-<!ENTITY context.removeWhitelist.label "AdvertiBlock: Знов увімкнути для цієї сторінки">
+<!ENTITY context.object.label "Adshark: заблокувати об’єкт">
+<!ENTITY context.removeWhitelist.label "Adshark: Знов увімкнути для цієї сторінки">
 <!ENTITY filters.tooltip "Найбільш часто застосовані фільтри:">
 <!ENTITY closesidebar.label "Закрити с&amp;писок елементів">
 <!ENTITY showintoolbar.label "По&amp;казувати в панелі інструментів">
 <!ENTITY status.tooltip "Статус:">
-<!ENTITY context.media.label "AdvertiBlock: Блокувати аудіо/відео">
+<!ENTITY context.media.label "Adshark: Блокувати аудіо/відео">

@@ -1,33 +1,33 @@
 <!ENTITY notification.button.no "&amp;Hayır">
-<!ENTITY sync.label "AdvertiBlock ayarlarını &amp;eşitle">
+<!ENTITY sync.label "Adshark ayarlarını &amp;eşitle">
 <!ENTITY whitelist.site.label "?1? sitesinde devre dışı kal">
 <!ENTITY notification.closing.button.hide "B&amp;u bildirimi kapat">
 <!ENTITY filters.label "&amp;Süzgeç tercihleri">
 <!ENTITY disable.label "Her yerde devre dışı kal">
 <!ENTITY objecttab.title "Engelle">
-<!ENTITY objecttab.tooltip "Bu nesneyi AdvertiBlock ile engellemek için buraya tıklayın.">
-<!ENTITY menuitem.label "AdvertiBlock Tercihleri">
+<!ENTITY objecttab.tooltip "Bu nesneyi Adshark ile engellemek için buraya tıklayın.">
+<!ENTITY menuitem.label "Adshark Tercihleri">
 <!ENTITY objecttabs.label "Flash ve &amp;Java'yı kulakçıklarla belirt">
 <!ENTITY sendReport.label "&amp;Bu sayfadaki sorunu bildir">
 <!ENTITY whitelist.page.label "Sadece bu sayfada devre dışı kal">
-<!ENTITY context.image.label "AdvertiBlock: Resmi engelle">
+<!ENTITY context.image.label "Adshark: Resmi engelle">
 <!ENTITY notification.button.yes "&amp;Evet">
 <!ENTITY opensidebar.label "E&amp;ngellenebilecek öğeleri göster">
 <!ENTITY notification.button.close "&amp;Kapat">
 <!ENTITY shownotifications.label "Yararlı &amp;bildirimleri göster">
-<!ENTITY contribute.label "AdvertiBlock'a katkıda bulun">
-<!ENTITY toolbarbutton.label "AdvertiBlock">
-<!ENTITY context.frame.label "AdvertiBlock: Çerçeveyi engelle">
+<!ENTITY contribute.label "Adshark'a katkıda bulun">
+<!ENTITY toolbarbutton.label "Adshark">
+<!ENTITY context.frame.label "Adshark: Çerçeveyi engelle">
 <!ENTITY blocked.tooltip "Bu sayfada engellenen öğeler:">
 <!ENTITY notification.closing.button.optout "Bildirim göstermeyi &amp;durdur">
 <!ENTITY counthits.label "Süzgeç isa&amp;betini say">
 <!ENTITY showinstatusbar.label "&amp;Durum çubuğunda göster">
 <!ENTITY sidebar.title "Bu sayfadaki engellenebilecek öğeler">
 <!ENTITY options.label "S&amp;eçenekler">
-<!ENTITY context.object.label "AdvertiBlock: Nesneyi engelle">
-<!ENTITY context.removeWhitelist.label "AdvertiBlock: Bu sayfada devreye sok">
+<!ENTITY context.object.label "Adshark: Nesneyi engelle">
+<!ENTITY context.removeWhitelist.label "Adshark: Bu sayfada devreye sok">
 <!ENTITY filters.tooltip "En etkin süzgeçler:">
 <!ENTITY closesidebar.label "E&amp;ngellenebilecek öğeleri gizle">
 <!ENTITY showintoolbar.label "A&amp;raç çubuğunda göster">
 <!ENTITY status.tooltip "Durum:">
-<!ENTITY context.media.label "AdvertiBlock: Ses/video engelle">
+<!ENTITY context.media.label "Adshark: Ses/video engelle">

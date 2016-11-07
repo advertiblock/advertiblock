@@ -1,33 +1,33 @@
 <!ENTITY notification.button.no "&amp;Не">
-<!ENTITY sync.label "&amp;Сверявай настройките на AdvertiBlock">
+<!ENTITY sync.label "&amp;Сверявай настройките на Adshark">
 <!ENTITY whitelist.site.label "Забрани за ?1?">
 <!ENTITY notification.closing.button.hide "Затвори &amp;уведомяването">
 <!ENTITY filters.label "Настройки на &amp;филтъра">
 <!ENTITY disable.label "Забрани навсякъде">
 <!ENTITY objecttab.title "Блокирай">
-<!ENTITY objecttab.tooltip "Щракнете за блокиране на обекта с AdvertiBlock">
-<!ENTITY menuitem.label "Настро&amp;йки на AdvertiBlock">
+<!ENTITY objecttab.tooltip "Щракнете за блокиране на обекта с Adshark">
+<!ENTITY menuitem.label "Настро&amp;йки на Adshark">
 <!ENTITY objecttabs.label "Показвай Flash и Java в пре&amp;градки">
 <!ENTITY sendReport.label "&amp;Докладвай неизправност в страницата">
 <!ENTITY whitelist.page.label "Забрани за страницата">
-<!ENTITY context.image.label "AdvertiBlock: блокирана картина">
+<!ENTITY context.image.label "Adshark: блокирана картина">
 <!ENTITY notification.button.yes "&amp;Да">
 <!ENTITY opensidebar.label "Отвори &amp;блокираните елементи">
 <!ENTITY notification.button.close "&amp;Затвори">
 <!ENTITY shownotifications.label "Показвай само &amp;полезните">
-<!ENTITY contribute.label "Помогни на AdvertiBlock">
-<!ENTITY toolbarbutton.label "AdvertiBlock">
-<!ENTITY context.frame.label "AdvertiBlock: блокирана рамка">
+<!ENTITY contribute.label "Помогни на Adshark">
+<!ENTITY toolbarbutton.label "Adshark">
+<!ENTITY context.frame.label "Adshark: блокирана рамка">
 <!ENTITY blocked.tooltip "Блокирани елементи в страницата:">
 <!ENTITY notification.closing.button.optout "Спри &amp;всички уведомявания">
 <!ENTITY counthits.label "Отброявай попа&amp;денията на филтъра">
 <!ENTITY showinstatusbar.label "&amp;Показвай в лентата на състоянието">
 <!ENTITY sidebar.title "Блокирани елементи в страницата">
 <!ENTITY options.label "&amp;Настройки">
-<!ENTITY context.object.label "AdvertiBlock: блокиран обект">
-<!ENTITY context.removeWhitelist.label "AdvertiBlock: разреши за страницата">
+<!ENTITY context.object.label "Adshark: блокиран обект">
+<!ENTITY context.removeWhitelist.label "Adshark: разреши за страницата">
 <!ENTITY filters.tooltip "Най-дейни филтри:">
 <!ENTITY closesidebar.label "Затвори &amp;блокираните елементи">
 <!ENTITY showintoolbar.label "По&amp;казвай в лентата с инструменти">
 <!ENTITY status.tooltip "Състояние:">
-<!ENTITY context.media.label "AdvertiBlock: блокиран звук/видео">
+<!ENTITY context.media.label "Adshark: блокиран звук/видео">

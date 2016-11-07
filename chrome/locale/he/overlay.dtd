@@ -1,33 +1,33 @@
 <!ENTITY notification.button.no "&amp;לא">
-<!ENTITY sync.label "&amp;סנכרון הגדרות AdvertiBlock">
+<!ENTITY sync.label "&amp;סנכרון הגדרות Adshark">
 <!ENTITY whitelist.site.label "נטרול ב-?1?">
 <!ENTITY notification.closing.button.hide "סגירת התראה זו">
 <!ENTITY filters.label "&amp;העדפות סינון">
 <!ENTITY disable.label "נטרול בכל מקום">
 <!ENTITY objecttab.title "חסימה">
-<!ENTITY objecttab.tooltip "לחיצה כאן לחסימת פריט זה עם AdvertiBlock">
-<!ENTITY menuitem.label "&amp;העדפות AdvertiBlock">
+<!ENTITY objecttab.tooltip "לחיצה כאן לחסימת פריט זה עם Adshark">
+<!ENTITY menuitem.label "&amp;העדפות Adshark">
 <!ENTITY objecttabs.label "הצגת &amp;לשוניות על פלאש וג'אווה">
 <!ENTITY sendReport.label "&amp;דיווח על בעיה בעמוד זה">
 <!ENTITY whitelist.page.label "נטרול בעמוד הזה בלבד">
-<!ENTITY context.image.label "AdvertiBlock: חסימת תמונה">
+<!ENTITY context.image.label "Adshark: חסימת תמונה">
 <!ENTITY notification.button.yes "&amp;כן">
 <!ENTITY opensidebar.label "&amp;פתיחת רשימת הפריטים לחסימה">
 <!ENTITY notification.button.close "&amp;סגירה">
 <!ENTITY shownotifications.label "הצגת התראות שימושיות">
-<!ENTITY contribute.label "תרום ל-AdvertiBlock">
-<!ENTITY toolbarbutton.label "AdvertiBlock">
-<!ENTITY context.frame.label "AdvertiBlock: חסימת מסגרת (פריים)">
+<!ENTITY contribute.label "תרום ל-Adshark">
+<!ENTITY toolbarbutton.label "Adshark">
+<!ENTITY context.frame.label "Adshark: חסימת מסגרת (פריים)">
 <!ENTITY blocked.tooltip "פריטים חסומים בעמוד זה:">
 <!ENTITY notification.closing.button.optout "הפסקת הצגת התראות">
 <!ENTITY counthits.label "מנה &amp;לחיצות מסנן">
 <!ENTITY showinstatusbar.label "&amp;הצגה בשורת המצב">
 <!ENTITY sidebar.title "פריטים לחסימה בעמוד הנוכחי">
 <!ENTITY options.label "&amp;אפשרויות">
-<!ENTITY context.object.label "AdvertiBlock: חסימת פריט">
-<!ENTITY context.removeWhitelist.label "AdvertiBlock: מאפשר מחדש בעמוד זה">
+<!ENTITY context.object.label "Adshark: חסימת פריט">
+<!ENTITY context.removeWhitelist.label "Adshark: מאפשר מחדש בעמוד זה">
 <!ENTITY filters.tooltip "המסננים הפעילים ביותר:">
 <!ENTITY closesidebar.label "&amp;סגירת הרשימה של הפריטים לחסימה">
 <!ENTITY showintoolbar.label "&amp;הצגה בסרגל הכלים">
 <!ENTITY status.tooltip "מצב:">
-<!ENTITY context.media.label "AdvertiBlock: חסימת ווידאו/אודיו">
+<!ENTITY context.media.label "Adshark: חסימת ווידאו/אודיו">

@@ -1,33 +1,33 @@
 <!ENTITY notification.button.no "Nej">
-<!ENTITY sync.label "Syn&amp;kronisera AdvertiBlock inställningar">
+<!ENTITY sync.label "Syn&amp;kronisera Adshark inställningar">
 <!ENTITY whitelist.site.label "Använd inte på ?1?">
 <!ENTITY notification.closing.button.hide "Stäng denna notifiering">
 <!ENTITY filters.label "Filterinställningar">
 <!ENTITY disable.label "Inaktivera för alla domäner">
 <!ENTITY objecttab.title "Blockera">
-<!ENTITY objecttab.tooltip "Klicka här för att blockera detta objekt med AdvertiBlock">
-<!ENTITY menuitem.label "Inställning&amp;ar för AdvertiBlock">
+<!ENTITY objecttab.tooltip "Klicka här för att blockera detta objekt med Adshark">
+<!ENTITY menuitem.label "Inställning&amp;ar för Adshark">
 <!ENTITY objecttabs.label "&amp;Visa flik vid Flash- och Java-reklam">
 <!ENTITY sendReport.label "Rapportera problem på denna sida">
 <!ENTITY whitelist.page.label "Använd inte på denna sida">
-<!ENTITY context.image.label "AdvertiBlock: Blockera bild">
+<!ENTITY context.image.label "Adshark: Blockera bild">
 <!ENTITY notification.button.yes "Ja">
 <!ENTITY opensidebar.label "Visa lista över blockerbara objekt">
 <!ENTITY notification.button.close "Stäng">
 <!ENTITY shownotifications.label "Visa användbara notifieringar">
-<!ENTITY contribute.label "Bidra till AdvertiBlock">
-<!ENTITY toolbarbutton.label "AdvertiBlock">
-<!ENTITY context.frame.label "AdvertiBlock: Blockera ram">
+<!ENTITY contribute.label "Bidra till Adshark">
+<!ENTITY toolbarbutton.label "Adshark">
+<!ENTITY context.frame.label "Adshark: Blockera ram">
 <!ENTITY blocked.tooltip "Blockerade objekt på denna sida:">
 <!ENTITY notification.closing.button.optout "Sluta visa notifieringar">
 <!ENTITY counthits.label "Räkna an&amp;talet filterträffar">
 <!ENTITY showinstatusbar.label "Visa i statusfältet">
 <!ENTITY sidebar.title "Blockerbara objekt på denna sida">
 <!ENTITY options.label "Alter&amp;nativ">
-<!ENTITY context.object.label "AdvertiBlock: Blockera objekt">
-<!ENTITY context.removeWhitelist.label "AdvertiBlock: Återaktivera på denna sida">
+<!ENTITY context.object.label "Adshark: Blockera objekt">
+<!ENTITY context.removeWhitelist.label "Adshark: Återaktivera på denna sida">
 <!ENTITY filters.tooltip "Mest aktiva filter:">
 <!ENTITY closesidebar.label "Stäng listan över blockerbara objekt">
 <!ENTITY showintoolbar.label "Visa i verktygs&amp;fältet">
 <!ENTITY status.tooltip "Status:">
-<!ENTITY context.media.label "AdvertiBlock: Blockera ljud/video">
+<!ENTITY context.media.label "Adshark: Blockera ljud/video">

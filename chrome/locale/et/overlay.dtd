@@ -1,33 +1,33 @@
 <!ENTITY notification.button.no "&amp;Ei">
-<!ENTITY sync.label "Sün&amp;kroniseeri AdvertiBlock sätted">
+<!ENTITY sync.label "Sün&amp;kroniseeri Adshark sätted">
 <!ENTITY whitelist.site.label "Keela domeenis ?1?">
 <!ENTITY notification.closing.button.hide "Sulge &amp;teade">
 <!ENTITY filters.label "Filtrite sätted">
 <!ENTITY disable.label "Keela kõikjal">
 <!ENTITY objecttab.title "Blokeeri">
-<!ENTITY objecttab.tooltip "Klõpsa siia selle objekti blokeerimiseks AdvertiBlocki abil">
-<!ENTITY menuitem.label "AdvertiBlocki sätted">
+<!ENTITY objecttab.tooltip "Klõpsa siia selle objekti blokeerimiseks Adsharki abil">
+<!ENTITY menuitem.label "Adsharki sätted">
 <!ENTITY objecttabs.label "Näita Flash ja Java objektidel sakke">
 <!ENTITY sendReport.label "&amp;Teata probleemist antud lehel">
 <!ENTITY whitelist.page.label "Keela ainult antud lehel">
-<!ENTITY context.image.label "AdvertiBlock: Blokeeri pilt">
+<!ENTITY context.image.label "Adshark: Blokeeri pilt">
 <!ENTITY notification.button.yes "&amp;Jah">
 <!ENTITY opensidebar.label "Ava blokeeritavad elemendid">
 <!ENTITY notification.button.close "&amp;Sulge">
 <!ENTITY shownotifications.label "Näita &amp;kasulikke teateid">
-<!ENTITY contribute.label "Toeta AdvertiBlock'i">
-<!ENTITY toolbarbutton.label "AdvertiBlock">
-<!ENTITY context.frame.label "AdvertiBlock: Blokeeri raam">
+<!ENTITY contribute.label "Toeta Adshark'i">
+<!ENTITY toolbarbutton.label "Adshark">
+<!ENTITY context.frame.label "Adshark: Blokeeri raam">
 <!ENTITY blocked.tooltip "Blokeeritud elemendid antud lehel:">
 <!ENTITY notification.closing.button.optout "E&amp;nam ei näidata teateid">
 <!ENTITY counthits.label "Loenda &amp;filtrite tabamusi">
 <!ENTITY showinstatusbar.label "Näita &amp;olekuribal">
 <!ENTITY sidebar.title "Blokeeritavad elemendid antud lehel">
 <!ENTITY options.label "V&amp;alikud">
-<!ENTITY context.object.label "AdvertiBlock: Blokeeri objekt">
-<!ENTITY context.removeWhitelist.label "AdvertiBlock: Luba uuesti antud lehel">
+<!ENTITY context.object.label "Adshark: Blokeeri objekt">
+<!ENTITY context.removeWhitelist.label "Adshark: Luba uuesti antud lehel">
 <!ENTITY filters.tooltip "Kõige aktiivsemad filtrid:">
 <!ENTITY closesidebar.label "Sulge blokeeritavad elemendid">
 <!ENTITY showintoolbar.label "Nä&amp;ita tööriistade menüüs">
 <!ENTITY status.tooltip "Olek:">
-<!ENTITY context.media.label "AdvertiBlock: Blokeeri audio/video">
+<!ENTITY context.media.label "Adshark: Blokeeri audio/video">
